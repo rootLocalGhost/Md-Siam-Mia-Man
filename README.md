@@ -29,20 +29,20 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Md-Siam-Mia-Man">
-        <img src="https://github-readme-stats.vercel.app/api?username=Md-Siam-Mia-Man&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&bg_color=000000" alt="Md Siam Mia GitHub Stats" />
+      <a href="https://github.com/rootLocalGhost">
+        <img src="https://github-readme-stats.vercel.app/api?username=rootLocalGhost&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&bg_color=000000" alt="Md Siam Mia GitHub Stats" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Md-Siam-Mia-Man">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Siam-Mia-Man&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&bg_color=000000" alt="Md Siam Mia Top Languages" />
+      <a href="https://github.com/rootLocalGhost">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootLocalGhost&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&bg_color=000000" alt="Md Siam Mia Top Languages" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Siam-Mia-Man&bg_color=000000&color=ffffff&line=ff0b55&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="activity-graph graph"  />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootLocalGhost&bg_color=000000&color=ffffff&line=ff0b55&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="activity-graph graph"  />
       </a>
     </td>
   </tr>
@@ -53,5 +53,5 @@
 ### 🐍 Here's a little snake eating up my contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Md-Siam-Mia-Man/Md-Siam-Mia-Man/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rootLocalGhost/rootLocalGhost/output/snake.svg" alt="Snake animation" />
 </div>
